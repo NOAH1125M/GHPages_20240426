@@ -1,9 +1,9 @@
 ---
-title: "ここにページのタイトル"
+title: "TRPG探索者紹介"
 author: default
 permalink: /
 ---
-
+# エルフリーナ・シェーコック
 
 
 
