@@ -3,7 +3,8 @@ title: "TRPG探索者紹介"
 author: default
 permalink: /
 ---
-# エルフリーナ・シェーコック
+# エルフリーナ・シェーコック（Elfrida・Schökoch）  
+!.[image].(GHPages_20210426/assets/images/
 
 
 
