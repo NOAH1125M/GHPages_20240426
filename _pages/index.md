@@ -4,8 +4,7 @@ author: default
 permalink: /
 ---
 # エルフリーナ・シェーコック（Elfrida・Schökoch）  
-![image](https://raw.githubusercontent.com/NOAH1125M/GHPages_20240426/main/assets/images/el.png)  
-<img src="https://raw.githubusercontent.com/NOAH1125M/GHPages_20240426/main/assets/images/el.png" alt="t" height="100px">
+<img src="https://raw.githubusercontent.com/NOAH1125M/GHPages_20240426/main/assets/images/el.png" alt="t" width="auto" height="300px">
 > **職業**:シェフパティシエ  
 > **年齢**:25歳  
 > **性別**:女  
