@@ -4,7 +4,14 @@ author: default
 permalink: /
 ---
 # エルフリーナ・シェーコック（Elfrida・Schökoch）  
-!.[image].(GHPages_20210426/assets/images/
+![image](https://raw.githubusercontent.com/NOAH1125M/GHPages_20240426/main/assets/images/el.png)  
+> **職業**:シェフパティシエ  
+> **年齢**:25歳  
+> **性別**:女  
+> **身長**:160cm  
+> **体重**:55kg  
+> **出身**:ドイツ  
+> **誕生日**:4/28  
 
 
 
